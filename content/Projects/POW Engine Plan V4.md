@@ -14,7 +14,7 @@ The whole design philosophy is for users to create their own content not us(even
 - [Foundry](https://foundryvtt.com)
 - [GCS](https://gurpscharactersheet.com)
 - [COMP/CON](https://compcon.app)
-- [chess.com](https://www.chess.com)
+- [chess](https://www.chess.com)
 - [Moonring](https://store.steampowered.com/app/2373630/Moonring/)
 
 ## Benchmark Games
