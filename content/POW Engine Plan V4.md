@@ -234,37 +234,32 @@ Games that are friendly to users creating and selling secondary content for them
 User, groups and studios can set up pages of content free or for sale and be able to customize it. when it comes to becoming a marketplace legal help is necessary. A program for independent user and groups would have to be set up for them to be aloud to sell on the site.
 # Future Wishes
 These are low-priority features. They are not worth diving into until we get user feedback on POW. Which is why these are just wishes.
-## Better Sheet Editor (Engine)
-Increasing the customizability to make more aesthetically pleasing Sheets.
-## Overlay Editor (Engine)
-There will be a lot of premade Overlays already. Letting user create their own might be cool.
-## Advance Map tools for the Board Editor
-In a way I am thinking about how advanced minecraft maps get. For example, setting up triggers for events to spawn enemies or change tiles. But, it's too much to think about right now.
-## Clubs (Social)
-A pretty experimental idea, its basically a feature to start groups people can join. It's simple since they can just create a Discord server for their club. We don't have to handle their communication. There are benefits, like sharing paid content. It's like an actual club where you'd borrow someone's rulebook.
 
+**Better Sheet Editor (Engine):** Increasing the customizability to make more aesthetically pleasing Sheets.
+
+**Overlay Editor (Engine):** There will be a lot of premade Overlays already. Letting user create their own might be cool.
+
+**Advance Map tools for the Board Editor:** In a way I am thinking about how advanced minecraft maps get. For example, setting up triggers for events to spawn enemies or change tiles. But, it's too much to think about right now.
+
+**Clubs (Social):** A pretty experimental idea, its basically a feature to start groups people can join. It's simple since they can just create a Discord server for their club. We don't have to handle their communication. There are benefits, like sharing paid content. It's like an actual club where you'd borrow someone's rulebook.
 The experimental part is to location lock your club. It should allow only members from your country, state, county, or city. Or to an organization like a school/college/company. Don't know how verification would be handled but its just a cool thought.
-## Sound Effects (Engine)
-A trigger system that already has to be created for pop up might also be able to be used for sound effects.
-## Action Visual Effects (Engine)
-Having actions trigger visual effects could make things interesting. Foundry can do that, but it's out of budget.
-## Voice Controller (Engine)
-The idea is to have a voice call(kinda iffy because discord). The features that might make it worth it are:
+
+**Sound Effects (Engine):** A trigger system that already has to be created for pop up might also be able to be used for sound effects.
+
+**Action Visual Effects (Engine):** Having actions trigger visual effects could make things interesting. Foundry can do that, but it's out of budget.
+
+**Voice Controller (Engine):** The idea is to have a voice call(kinda iffy because discord). The features that might make it worth it are:
 - whispering: speaking to one or more players without the rest hearing it.
 - voice effects: being able to plugin user created effects.
 - speech to text
-## Action History Log
-Works alongside the chat.
 
-Text to speech and speech to text. The point is to easy the communication between people who use text chat and only voice chat. It works well for accessibility.
+**Action History Log:** Works alongside the chat. Text to speech and speech to text. The point is to easy the communication between people who use text chat and only voice chat. It works well for accessibility. Another purpose is to create logs in screenplay format. They should show players' in-character text, voice, and actions.
 
-Another purpose is to create logs in screenplay format. They should show players' in-character text, voice, and actions.
-## Random Content Generator (Engine)
-Used to generate npcs and monsters. The best direction is to create a framework. It should let people build their own generators.
-## The use of LMMs (Engine)
-Large Language Models might make good conversational NPCs. But, who knows how useful they'll be, especially when running them locally. They can seem smart, but their true abilities are unknown.
-## 3d Board(Engine)
-At first, this was high on the list. But, we can do a lot with 2D. It was a headache to keep the same features for 3D. So I will not unless there is interest from customers for it.
+**Random Content Generator (Engine):** Used to generate npcs and monsters. The best direction is to create a framework. It should let people build their own generators.
+
+**The use of LMMs (Engine):** Large Language Models might make good conversational NPCs. But, who knows how useful they'll be, especially when running them locally. They can seem smart, but their true abilities are unknown.
+
+**3d Board(Engine):** At first, this was high on the list. But, we can do a lot with 2D. It was a headache to keep the same features for 3D. So I will not unless there is interest from customers for it.
 # Time line
 ## Phase 1: ***POW: System Builder*** _demo_
 The ***POW: System Builder demo*** is for a single user. It has the *Object Editor*, *Sheet Editor*, *Wiki-like Notes*, and *Basic Rules Referee*. It is to get user feedback on the interfaces to create a system. Along with getting as many people to test it out as possible by making it free.
