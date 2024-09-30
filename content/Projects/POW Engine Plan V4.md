@@ -82,23 +82,12 @@ Currently working on it. It is easier to show how it looks when it completed rat
             "fieldMax": 0,
             "max": 0,
             "hpi": 0,
-            "proc": 0,
-            "lgtWounds": 0,
-            "dpWounds": 0,
-            "wounds": 0,
-            "status": [],
-            "morale": 0
         },
         "defense": {
             "total": 0,
             "base": 0,
             "deflect": 0,
-            "absorption": {
-	            "min": 0,
-	            "max": 0
-            },
             "toughness": 0,
-            "limit": 0,
             "dr": 0,
             "multipliers": []
         },
@@ -110,16 +99,8 @@ Currently working on it. It is easier to show how it looks when it completed rat
             "current": 0,
             "capacity": 0,
             "encumberance": 0,
-            "moveObject": 0
         },
         "items": [
-            {
-                "name": "Unsorted",
-                "weight": 0,
-                "reductions": 0,
-                "capacity": 0,
-                "items": {}
-            },
             {
                 "name": "Equiped",
                 "weight": 0,
