@@ -167,7 +167,7 @@ I still need to write it out properly. But, basically, the same way as in "Baldu
 #### Turn Board
 Not really sure what to name it but the idea is for RPG combat screens Like Pokémon or Earthbound. Where there are only a background image the sprites of who is in combat and then being able to select who to hit.
 ##### Example
-![pokemon|250x175](https://static.wikia.nocookie.net/essentialsdocs/images/7/70/Battle.png/revision/latest?cb=20220523172438) ![earthbound|500](https://i.redd.it/wrx2j1jhlt8b1.png)
+![pokemon|250x175](https://static.wikia.nocookie.net/pokemonfireash/images/6/61/Pok%C3%A9mon_Battle.png/revision/latest?cb=20220721181517) ![earthbound|500](https://i.redd.it/wrx2j1jhlt8b1.png)
 #### 2d Board: Tile Maps
 Objects connect to a movable, targetable sprite. Other objects can interact with it. They can move freely or on a grid. There are 2.5 types of grids the conventional square grid and hexagonal/isometric.
 
