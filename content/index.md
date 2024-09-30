@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Molinoz Projects
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+A project blog powered by Quartz
+See the [documentation](https://quartz.jzhao.xyz) for how to started your own.
+
