@@ -253,7 +253,7 @@ With the feedback from the demo, refine the editors.
 This is when the hosting functionality and basic social features are made. 
 The permission and approval system will be worked on in the final product. Instead the game runner will just be notified that changes where made and by who.
 The *Board Editor* will not have customization functionality yet. There will only be the default Turn Board. 
-The Idea is to distribute this version for $5. Hopefully it will build an email list using the promise that the $5 will be a discount on the final product.
+The Idea is to distribute this version for 5 dollars. Hopefully it will build an email list using the promise that the 5 dollars will be a discount on the final product.
 ## Phase 3 ***Crowed Funding***
 Hopefully some attention was gained from the _System Builder_. This part of the plan depends on how popular it was. If it wasn't, it would be best to improve it first. We should use feedback to find ways to do better.
 
