@@ -173,7 +173,7 @@ Objects connect to a movable, targetable sprite. Other objects can interact with
 
 I lump hex and iso together. When I tried to figure out how to set up an isometric grid in Roll20, I found the isometric grid was behind a paywall. I got around it because an isometric grid overlaps perfectly on an invisible hex map.
 ![|500](https://i0.wp.com/2minutetabletop.com/wp-content/uploads/2021/08/Isometric-grid-overlay-demonstration-on-Roll20.jpg?w=795&ssl=1)
-1 of the features that can differentiate us from other virtual tabletops top are _areas of action_.
+One of the features that can differentiate us from other virtual tabletops top are *areas of action*.
 In chess.com and other online chess games, when you click a piece, its valid move spots change color. Clicking on a spot moves the piece there.
 This feature will do well for any board game. It just needs to cover more use cases for TTRPGs. Specifically, it should address attack range, AOE, and other factors.
 
