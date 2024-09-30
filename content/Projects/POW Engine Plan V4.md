@@ -18,7 +18,7 @@ The whole design philosophy is for users to create their own content not us(even
 - [Moonring](https://store.steampowered.com/app/2373630/Moonring/)
 
 ## Benchmark Games
-These are games that POW aims to be able to run, and aid
+These are games that POW aims to be able to run, and aid.
 ### TTRPGs
 #### Custom TTRPG Malum
 [Malum](https://sites.google.com/view/malum-test/rules-compendium) is a TTRPG my friend Gavin has been working on and running. It is in its first stages and the actual test is if Gavin can set it up in POW on his own.
