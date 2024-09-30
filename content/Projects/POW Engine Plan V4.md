@@ -7,8 +7,8 @@ The main focus is TTRPG games due to their market value. Also all their needed f
 Also a hopeful side effect is to grow interest to other TTRPG games besides DND. Along with creating a better market for indie game developers.
 
 The whole design philosophy is for users to create their own content not us(even though I will to test things out)
-> # Base Product Plan
-> ## Similar Products and Inspirations
+# Base Product Plan
+## Similar Products and Inspirations
 - [Tabletop Simulator](https://www.tabletopsimulator.com)
 - [Roll20](https://roll20.net)
 - [Foundry](https://foundryvtt.com)
