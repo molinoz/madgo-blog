@@ -45,10 +45,16 @@ It requires some accounting which was hard to keep track of. I personally handle
 That way when someone is talking about world setting or building. They are talking about the setting(the location in which campaigns story takes place).
 While Orb building and settings are how you set up and organize the content and players in the orb.
 ***Layout:*** A Custom Character sheet or UI Component that can manipulate the data of an object.
-***Object:*** A data object connected to a piece on the board or layout that manipulates it data.
+
+***Object:*** A data object connected to a 
+piece on the board or layout that manipulates it data.
+
 ***Statblock:*** A TTRPG term for a document that has an NPC or PC's stats and information. 
+
 ***Content:*** Lore Notes, Art assets, Rules, and Statblocks
+
 ***Module:*** A premade adventure or setting that can run through with a rule system. In POW it will be a term for how your Orb is set up. You can share the Orb with what content it uses and how it is set up as a module other people can play and run.
+
 ## Engine Features
 ### Object Editor *currently working on*
 An editor to setup the structure of a data object. Currently Data is saved in json files so you can just write it in json if you know what POW needs for it to work. So instead an Object editor is being made.
