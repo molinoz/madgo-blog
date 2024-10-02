@@ -44,6 +44,7 @@ It requires some accounting which was hard to keep track of. I personally handle
 ***Orb:*** The game environment that holds all the assets, statblocks, and other custom content. This is an Orb instead of world to prevent confusion with world building lingo. Which is to describe creating and setting up content.
 That way when someone is talking about world setting or building. They are talking about the setting(the location in which campaigns story takes place).
 While Orb building and settings are how you set up and organize the content and players in the orb.
+
 ***Layout:*** A Custom Character sheet or UI Component that can manipulate the data of an object.
 
 ***Object:*** A data object connected to a 
